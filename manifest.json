@@ -1,0 +1,8 @@
+{
+  "encryption": "aes-256-gcm",
+  "version": "0.0.1",
+  "schema_version": 6,
+  "minimum_sdk_version": "0.3.1",
+  "rule_count": 205,
+  "sha256": "f484b96936312e08e829cfba3b70383e9c5eb613edf7f4b6e3c64183781a31c8"
+}
